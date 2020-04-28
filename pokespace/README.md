@@ -1,2 +1,3 @@
-# Processing
-A repository where i code within the context of the visual arts. 
+# pokespace
+In this project there's Pikachu in the space.
+Simply click on the screen to deploy/let enter Pikachu.
